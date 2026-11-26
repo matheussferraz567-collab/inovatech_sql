@@ -6,7 +6,7 @@ A proposta é aplicar, na prática, os conceitos estudados no módulo, desde a i
 2. Objetivo do projeto
 Desenvolver uma estrutura de banco de dados capaz de organizar as principais informações e operações de uma loja virtual, permitindo o armazenamento e a consulta de dados relacionados a:
 Clientes;
-Funcionários;
+Funcionários
 Categorias;
 Produtos;
 Estoque;

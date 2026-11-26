@@ -1,4 +1,4 @@
-InovaTech — Projeto de Modelagem de Banco de Dados
+# InovaTech — Projeto de Modelagem de Banco de Dados
 1. Apresentação
 O InovaTech é um projeto acadêmico desenvolvido como atividade do módulo Modelagem de Banco de Dados, do curso de Análise e Desenvolvimento de Sistemas da Universidade Positivo.
 O projeto consiste na modelagem e implementação de um banco de dados relacional para uma loja virtual fictícia de produtos eletrônicos e acessórios de informática.
